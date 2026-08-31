@@ -5,7 +5,8 @@ Fall 2026 Data 498D Repository
 Contributors:
 
 - Taryn Laird (course instructor, Spring 2026)
-- Lianfen Qian & Joseph Watkins (course instructors, Fall 2026) 
+- Lianfen Qian (course instructor, Fall 2026)
+- Joseph Watkins (course instructor, Fall 2026)
 - All students who enrolled into the course, Spring and Fall 2026
 - David Rincon Villanueva
 
