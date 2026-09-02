@@ -5,10 +5,24 @@ Fall 2026 Data 498D Repository
 Contributors:
 
 - Taryn Laird (course instructor, Spring 2026)
+- Lianfen Qian & Joseph Watkins (course instructors, Fall 2026)
+- John Rottinghaus (Student, Fall 2026)
 - Lianfen Qian (course instructor, Fall 2026)
 - Joseph Watkins (course instructor, Fall 2026)
 - All students who enrolled into the course, Spring and Fall 2026
 - David Rincon Villanueva
+- Veronica Ellingboe
+- Sarayu Gadi
+- Sierra Herrera
+- Jonathan Barry
+- Benjamin Mathews
+- Owen Buckles
+- Katie Northrup
+- Deeksha Reddy
+- Luis Angulo
+- Dora Elalaoui (student)
+- Hanfei Yang
+- Alex Marcek
 
 This is our shared collection of useful resources and code snippets for Statistics and Data Science. We will work on adding the resources from the Brightspace Site here over time.
 
